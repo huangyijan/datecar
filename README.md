@@ -59,19 +59,23 @@ npm run build --report
 <table>
     <tr>
         <th ><img src="./screenshot/1.png" width = "80%" /></th>
-        <th><img src="./screenshot/2.png" width = "80%" /></th>
+        <th><img src="./screenshot/2.jng" width = "80%" /></th>
     </tr>
     <tr>
-        <th ><img src="./screenshot/3.png" width = "80%" /></th>
-        <th><img src="./screenshot/4.png" width = "80%" /></th>
+        <th ><img src="./screenshot/3.jng" width = "80%" /></th>
+        <th><img src="./screenshot/4.jng" width = "80%" /></th>
     </tr>
     <tr>
-        <th ><img src="./screenshot/5.png" width = "80%" /></th>
-        <th><img src="./screenshot/6.png" width = "80%" /></th>
+        <th ><img src="./screenshot/5.jng" width = "80%" /></th>
+        <th><img src="./screenshot/6.jng" width = "80%" /></th>
     </tr>
     <tr>
-        <th ><img src="./screenshot/7.png" width = "80%" /></th>
-        <th><img src="./screenshot/8.png" width = "80%" /></th>
+        <th ><img src="./screenshot/7.jng" width = "80%" /></th>
+        <th><img src="./screenshot/8.jng" width = "80%" /></th>
+    </tr>
+    <tr>
+        <th ><img src="./screenshot/8.jng" width = "80%" /></th>
+        <th><img src="./screenshot/9.png" width = "80%" /></th>
     </tr>
 </table>
 
