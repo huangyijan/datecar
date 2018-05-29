@@ -56,4 +56,4 @@ npm run build --report
 
 部分截图
 
-![hello](https://raw.githubusercontent.com/huangyijan/datecar/master/screenshot/1.png =300x600)
+![hello](./screenshot/1.png)
