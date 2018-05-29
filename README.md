@@ -56,4 +56,4 @@ npm run build --report
 
 部分截图
 
-![hello](./screenshot/1.png ){ width=100px;height:200px}
+![hello](./screenshot/1.png ){ :width="100" :height="200"}
