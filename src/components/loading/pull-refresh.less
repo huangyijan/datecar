@@ -1,0 +1,89 @@
+.yo-scroll {
+  font-size: 14px;
+  color: #656565;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+  z-index: 100;
+  height: auto;
+  -webkit-overflow-scrolling: touch;
+  .inner {
+    position: absolute;
+    top: -50px;
+    width: 100%;
+    height: auto;
+    transition-duration: 300ms;
+    .pull-refresh {
+      position: relative;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 50px;
+      display: flex;
+      display: -webkit-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .load-more {
+      height: 50px;
+      line-height: 50px;
+      margin-bottom: 50px;
+      display: flex;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+    }
+    .down-tip,
+    .refresh-tip,
+    .up-tip {
+      display: none;
+    }
+    .up-tip:before,
+    .refresh-tip:before {
+      content: '';
+      display: inline-block;
+      width: 160px;
+      height: 70px;
+      background-size: 70% !important;
+      position: absolute;
+      top: 0;
+      left: 20%;
+    }
+    .up-tip:before {
+      //background: url(.../img/pull-refresh/down-logo.png) no-repeat center;
+    }
+    .refresh-tip:before {
+      //background: url(../img/pull-refresh/refresh-logo.gif) no-repeat center;
+    }
+  }
+}
+
+.yo-scroll.touch .inner {
+  transition-duration: 0ms;
+}
+
+.yo-scroll.down .down-tip {
+  display: block;
+}
+
+.yo-scroll.up .up-tip {
+  display: block;
+}
+
+.yo-scroll.refresh .refresh-tip {
+  display: block;
+}
+.loadingImg:before{
+  margin: 0 auto;
+  display: block;
+  color: #faac38;
+  -webkit-transition-duration: 1s;
+  -moz-transition-property: -moz-transform;
+  -moz-transition-duration: 1s;
+  animation: rotarion 3s linear infinite;
+  -moz-animation: rotation 3s linear infinite;
+  -webkit-animation: rotation 3s linear infinite;
+  -o-animation: rotation 3s linear infinite;
+}
