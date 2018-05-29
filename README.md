@@ -2,6 +2,11 @@
 
 ####  预览地址 [海大约车](http://xqddin.cn/datecar/) ，需要使用微信来查看，属于微信开发项目
 
+<div style="width:80%;text-align:center">
+<img src="./screenshot/carCode.png" style="width:50%">
+<img src="./screenshot/qrcode.png" style="width:50%">
+</div>
+
 > 一个基于vue开发的小项目，可以通过下面的提示来部署项目
 
 > 项目index.html里面引入了百度地图的秘钥会导致再本地无法运行，可以尝试使用自己的秘钥（*），或者删掉。
@@ -22,6 +27,10 @@
 - 只有移动端，界面只是兼容新版本的手机，用wechat开发者工具在iphone5会出现样式堆叠
 - 自己写的ui界面，有参考之前项目的一些样式，感觉还不算丑吧
 
+
+#### 环境要求
+
+>node(npm)+vue
 
 #### Build Setup
 
