@@ -56,4 +56,13 @@ npm run build --report
 
 部分截图
 
-![hello](./screenshot/1.png ){ :width="100" :height="200"}
+<table>
+    <tr>
+        <th ><img src="./screenshot/1.png" width = "80%" /></th>
+        <th><img src="./screenshot/1.png" width = "80%" /></th>
+        <th><img src="./screenshot/1.png" width = "80%" /></th>
+        <th><img src="./screenshot/1.png" width = "80%" /></th>
+    </tr>
+</table>
+
+![hello](./screenshot/1.png)
