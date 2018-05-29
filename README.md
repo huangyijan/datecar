@@ -10,6 +10,8 @@
 
 ## 技术栈
 
+>vue2.9.3+vue-router2+es6+webpack+promise+stylus+flex布局
+
 #### Build Setup
 
 ``` bash
