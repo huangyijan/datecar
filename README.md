@@ -56,4 +56,4 @@ npm run build --report
 
 部分截图
 
-![截图]（https://github.com/huangyijan/datecar/blob/master/screenshot/1.png）
+![hello](https://raw.githubusercontent.com/huangyijan/datecar/master/screenshot/1.png)
