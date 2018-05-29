@@ -260,7 +260,7 @@
         .input_style
           margin-bottom 5px
           height 18px
-          width 75%
+          width 65%
           outline none
           border none
 
