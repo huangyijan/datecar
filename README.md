@@ -1,6 +1,6 @@
 # datecar(海大约车)
 
-####  预览地址 [海大约车](http://xqddin.cn/datecar/) ，需要使用微信来查看，属于微信开发项目
+####  预览地址 [海大约车](http://xqddin.cn/datecar/)链接已失效，暂时服务器在跑其他项目，一元服务器配置不太高 ，需要使用微信来查看，属于微信开发项目
 
 <div style="width:80%;text-align:center">
 <img src="./screenshot/carCode.png" style="width:50%">
